@@ -1,0 +1,6 @@
+__pycache__
+snowtrace_api_key.py
+TokenSwap_event_pickles/
+CSVs/
+pool_swaps/
+*.csv
